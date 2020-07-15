@@ -73,8 +73,9 @@ NOTE: master is our *development* branch and may not be stable at all times.
 <a href="https://sproutsocial.com"><img src="http://nsq.io/static/img/sproutsocial_logo.png" width="90" align="middle"/></a>&nbsp;&nbsp;
 <a href="http://fandom.wikia.com"><img src="http://nsq.io/static/img/fandom_logo.svg" width="100" align="middle"/></a>&nbsp;&nbsp;
 <a href="https://gitee.com"><img src="http://nsq.io/static/img/gitee_logo.svg" width="140" align="middle"/></a><br/>
-<a href="https://bytedance.com"><img src="https://bytedance.com/static/images/logo@2x.png" width="140" align="middle"/></a>&nbsp;&nbsp;
-<a href="https://n1q.com/"><img width="120" align="middle" src="http://nsq.io/static/img/smartserving_logo.png" alt="Logo of SmartServing which powered by nEqual.com" /></a>&nbsp;&nbsp;
+
+<a href="https://bytedance.com"><img src="https://nsq.io/static/img/bytedance_logo.png" width="140" align="middle"/></a>&nbsp;&nbsp;
+<a href="https://n1q.com/"><img src="http://nsq.io/static/img/smartserving_logo.png" width="120" align="middle"/></a>&nbsp;&nbsp;
 
 ## Code of Conduct
 
@@ -83,8 +84,8 @@ Help us keep NSQ open and inclusive. Please read and follow our [Code of Conduct
 ## Authors
 
 NSQ was designed and developed by Matt Reiferson ([@imsnakes][snakes_twitter]) and Jehiah Czebotar
-([@jehiah][jehiah_twitter]) but wouldn't have been possible without the support of
-[bitly][bitly] and all our [contributors][contributors].
+([@jehiah][jehiah_twitter]) but wouldn't have been possible without the support of [bitly][bitly],
+maintainers ([Pierce Lopez][pierce_github]), and all our [contributors][contributors].
 
 Logo created by Wolasi Konu ([@kisalow][wolasi_twitter]).
 
@@ -98,3 +99,4 @@ Logo created by Wolasi Konu ([@kisalow][wolasi_twitter]).
 [contributors]: https://github.com/nsqio/nsq/graphs/contributors
 [client_libraries]: http://nsq.io/clients/client_libraries.html
 [wolasi_twitter]: https://twitter.com/kisalow
+[pierce_github]: https://github.com/ploxiln
